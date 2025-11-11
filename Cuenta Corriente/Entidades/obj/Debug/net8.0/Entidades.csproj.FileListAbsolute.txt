@@ -1,0 +1,13 @@
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\bin\Debug\net8.0\Entidades.deps.json
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\bin\Debug\net8.0\Entidades.runtimeconfig.json
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\bin\Debug\net8.0\Entidades.dll
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\bin\Debug\net8.0\Entidades.pdb
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\obj\Debug\net8.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\obj\Debug\net8.0\Entidades.AssemblyInfo.cs
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\obj\Debug\net8.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\obj\Debug\net8.0\Entidades.dll
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\obj\Debug\net8.0\refint\Entidades.dll
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\obj\Debug\net8.0\Entidades.pdb
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\obj\Debug\net8.0\Entidades.genruntimeconfig.cache
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\obj\Debug\net8.0\ref\Entidades.dll

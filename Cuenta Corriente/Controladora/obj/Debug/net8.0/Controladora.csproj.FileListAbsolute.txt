@@ -37,3 +37,4 @@ C:\Users\Camila\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Controladora\ob
 C:\Users\Camila\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Controladora\obj\Debug\net8.0\Controladora.pdb
 C:\Users\Camila\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Controladora\obj\Debug\net8.0\Controladora.genruntimeconfig.cache
 C:\Users\Camila\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Controladora\obj\Debug\net8.0\ref\Controladora.dll
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Controladora\obj\Debug\net8.0\Controladora.sourcelink.json

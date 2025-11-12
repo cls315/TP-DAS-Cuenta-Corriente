@@ -1,4 +1,7 @@
-﻿namespace Entidades
+﻿using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+
+namespace Entidades
 {
     public class Cliente
     {
@@ -8,5 +11,7 @@
         public string DNI { get; set; }
         public string Telefono { get; set; }
         public ICollection<CuentaCorriente> CuentaCorrientes { get; set; } = new List<CuentaCorriente>();
+
+        public string NombreCompleto => $"{Nombre} {Apellido}";
     }
 }

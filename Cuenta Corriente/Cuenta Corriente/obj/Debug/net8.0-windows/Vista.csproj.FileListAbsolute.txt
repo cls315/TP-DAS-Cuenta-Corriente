@@ -261,3 +261,5 @@ C:\Users\Camila\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Cuenta Corrient
 C:\Users\Camila\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Cuenta Corriente\obj\Debug\net8.0-windows\Vista.pdb
 C:\Users\Camila\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Cuenta Corriente\obj\Debug\net8.0-windows\Vista.genruntimeconfig.cache
 C:\Users\Camila\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Cuenta Corriente\obj\Debug\net8.0-windows\ref\Vista.dll
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Cuenta Corriente\obj\Debug\net8.0-windows\Cuenta_Corriente.Form2.resources
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Cuenta Corriente\obj\Debug\net8.0-windows\Vista.sourcelink.json

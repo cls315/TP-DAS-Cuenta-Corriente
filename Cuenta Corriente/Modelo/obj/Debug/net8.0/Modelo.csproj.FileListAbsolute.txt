@@ -33,3 +33,4 @@ C:\Users\Camila\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Modelo\obj\Debu
 C:\Users\Camila\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Modelo\obj\Debug\net8.0\ref\Modelo.dll
 C:\Users\Camila\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Modelo\bin\Debug\net8.0\Modelo.runtimeconfig.json
 C:\Users\Camila\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Modelo\obj\Debug\net8.0\Modelo.genruntimeconfig.cache
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Modelo\obj\Debug\net8.0\Modelo.sourcelink.json

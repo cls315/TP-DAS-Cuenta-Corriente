@@ -25,3 +25,4 @@ C:\Users\Camila\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\obj\D
 C:\Users\Camila\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\obj\Debug\net8.0\Entidades.pdb
 C:\Users\Camila\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\obj\Debug\net8.0\Entidades.genruntimeconfig.cache
 C:\Users\Camila\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\obj\Debug\net8.0\ref\Entidades.dll
+C:\Users\estudiante\Desktop\TP-DAS-Cuenta-Corriente\Cuenta Corriente\Entidades\obj\Debug\net8.0\Entidades.sourcelink.json

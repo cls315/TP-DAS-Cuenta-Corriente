@@ -1,5 +1,4 @@
-﻿using CuentaCorriente.Entidades;
-using System.Linq;
+﻿using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using Entidades;
@@ -42,7 +41,7 @@ namespace CuentaCorriente.Persistencia
 
         public Cliente ObtenerClientePorId(int id)
         {
-            return _context.Clientes.Find(id);
+            return _context.Clientes.Include(c => c.CuentaCorrientes).FirstOrDefault(c => c.Id == id);
         }
 
         public void ModificarCliente(Cliente cliente)
@@ -67,7 +66,26 @@ namespace CuentaCorriente.Persistencia
         {
             return _context.CuentasCorrientes
                 .Include(cc => cc.Movimientos)
+                .Include(cc => cc.Cliente)
                 .FirstOrDefault(cc => cc.Id == id);
+        }
+
+        public IReadOnlyCollection<CuentaCorriente> ListarCuentasPorClienteId(int clienteId)
+        {
+            return _context.CuentasCorrientes
+                .Include(cc => cc.Movimientos)
+                .Where(cc => cc.ClienteId == clienteId)
+                .ToList()
+                .AsReadOnly();
+        }
+
+        public IReadOnlyCollection<CuentaCorriente> ListarTodasLasCuentas()
+        {
+            return _context.CuentasCorrientes
+                .Include(cc => cc.Cliente)
+                .Include(cc => cc.Movimientos)
+                .ToList()
+                .AsReadOnly();
         }
     }
 }

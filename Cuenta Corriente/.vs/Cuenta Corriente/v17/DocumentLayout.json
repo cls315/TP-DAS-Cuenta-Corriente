@@ -1,21 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\estudiante\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\",
+  "WorkspaceRootPath": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CAE12A04-FE24-4D2E-ADF6-BBDBE539C2B6}|Entidades\\Entidades.csproj|c:\\users\\estudiante\\desktop\\tp-das-cuenta-corriente\\cuenta corriente\\entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CAE12A04-FE24-4D2E-ADF6-BBDBE539C2B6}|Entidades\\Entidades.csproj|solutionrelative:entidades\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F2B893D-B289-4E77-9A2D-D0112AC20773}|Cuenta Corriente\\Vista.csproj|c:\\users\\camila\\desktop\\tp-das-cuenta-corriente\\cuenta corriente\\cuenta corriente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F2B893D-B289-4E77-9A2D-D0112AC20773}|Cuenta Corriente\\Vista.csproj|solutionrelative:cuenta corriente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9935E417-C137-4EBA-815A-2B0D67E155C3}|Controladora\\Controladora.csproj|c:\\users\\estudiante\\desktop\\tp-das-cuenta-corriente\\cuenta corriente\\controladora\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9935E417-C137-4EBA-815A-2B0D67E155C3}|Controladora\\Controladora.csproj|solutionrelative:controladora\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F2B893D-B289-4E77-9A2D-D0112AC20773}|Cuenta Corriente\\Vista.csproj|c:\\users\\camila\\desktop\\tp-das-cuenta-corriente\\cuenta corriente\\cuenta corriente\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9F2B893D-B289-4E77-9A2D-D0112AC20773}|Cuenta Corriente\\Vista.csproj|solutionrelative:cuenta corriente\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68DBE787-6FC7-4B98-BFD3-EF7135E36E62}|Modelo\\Modelo.csproj|c:\\users\\estudiante\\desktop\\tp-das-cuenta-corriente\\cuenta corriente\\modelo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68DBE787-6FC7-4B98-BFD3-EF7135E36E62}|Modelo\\Modelo.csproj|solutionrelative:modelo\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9935E417-C137-4EBA-815A-2B0D67E155C3}|Controladora\\Controladora.csproj|c:\\users\\camila\\desktop\\tp-das-cuenta-corriente\\cuenta corriente\\controladora\\controladora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9935E417-C137-4EBA-815A-2B0D67E155C3}|Controladora\\Controladora.csproj|solutionrelative:controladora\\controladora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F2B893D-B289-4E77-9A2D-D0112AC20773}|Cuenta Corriente\\Cuenta Corriente.csproj|c:\\users\\estudiante\\desktop\\tp-das-cuenta-corriente\\cuenta corriente\\cuenta corriente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{68DBE787-6FC7-4B98-BFD3-EF7135E36E62}|Modelo\\Modelo.csproj|c:\\users\\camila\\desktop\\tp-das-cuenta-corriente\\cuenta corriente\\modelo\\cuentacorrientecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DBE787-6FC7-4B98-BFD3-EF7135E36E62}|Modelo\\Modelo.csproj|solutionrelative:modelo\\cuentacorrientecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DBE787-6FC7-4B98-BFD3-EF7135E36E62}|Modelo\\Modelo.csproj|c:\\users\\camila\\desktop\\tp-das-cuenta-corriente\\cuenta corriente\\modelo\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DBE787-6FC7-4B98-BFD3-EF7135E36E62}|Modelo\\Modelo.csproj|solutionrelative:modelo\\repositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE12A04-FE24-4D2E-ADF6-BBDBE539C2B6}|Entidades\\Entidades.csproj|c:\\users\\camila\\desktop\\tp-das-cuenta-corriente\\cuenta corriente\\entidades\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE12A04-FE24-4D2E-ADF6-BBDBE539C2B6}|Entidades\\Entidades.csproj|solutionrelative:entidades\\movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE12A04-FE24-4D2E-ADF6-BBDBE539C2B6}|Entidades\\Entidades.csproj|c:\\users\\camila\\desktop\\tp-das-cuenta-corriente\\cuenta corriente\\entidades\\cuentacorriente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE12A04-FE24-4D2E-ADF6-BBDBE539C2B6}|Entidades\\Entidades.csproj|solutionrelative:entidades\\cuentacorriente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE12A04-FE24-4D2E-ADF6-BBDBE539C2B6}|Entidades\\Entidades.csproj|c:\\users\\camila\\desktop\\tp-das-cuenta-corriente\\cuenta corriente\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAE12A04-FE24-4D2E-ADF6-BBDBE539C2B6}|Entidades\\Entidades.csproj|solutionrelative:entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2B893D-B289-4E77-9A2D-D0112AC20773}|Cuenta Corriente\\Vista.csproj|c:\\users\\camila\\desktop\\tp-das-cuenta-corriente\\cuenta corriente\\cuenta corriente\\cuentacorrientecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2B893D-B289-4E77-9A2D-D0112AC20773}|Cuenta Corriente\\Vista.csproj|solutionrelative:cuenta corriente\\cuentacorrientecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2B893D-B289-4E77-9A2D-D0112AC20773}|Cuenta Corriente\\Cuenta Corriente.csproj|C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\cuenta corriente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9F2B893D-B289-4E77-9A2D-D0112AC20773}|Cuenta Corriente\\Cuenta Corriente.csproj|solutionrelative:cuenta corriente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,58 +50,133 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Cuenta Corriente\\Form2.cs",
+              "RelativeDocumentMoniker": "Cuenta Corriente\\Form2.cs",
+              "ToolTip": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Cuenta Corriente\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cuenta Corriente\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T03:06:51.108Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Modelo\\Repositorio.cs",
+              "RelativeDocumentMoniker": "Modelo\\Repositorio.cs",
+              "ToolTip": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Modelo\\Repositorio.cs",
+              "RelativeToolTip": "Modelo\\Repositorio.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwEUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T02:21:46.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Entidades\\Movimiento.cs",
+              "RelativeDocumentMoniker": "Entidades\\Movimiento.cs",
+              "ToolTip": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Entidades\\Movimiento.cs",
+              "RelativeToolTip": "Entidades\\Movimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T01:08:56.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CuentaCorriente.cs",
+              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Entidades\\CuentaCorriente.cs",
+              "RelativeDocumentMoniker": "Entidades\\CuentaCorriente.cs",
+              "ToolTip": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Entidades\\CuentaCorriente.cs",
+              "RelativeToolTip": "Entidades\\CuentaCorriente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T01:04:24.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CuentaCorrienteContext.cs",
+              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Cuenta Corriente\\CuentaCorrienteContext.cs",
+              "RelativeDocumentMoniker": "Cuenta Corriente\\CuentaCorrienteContext.cs",
+              "ToolTip": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Cuenta Corriente\\CuentaCorrienteContext.cs",
+              "RelativeToolTip": "Cuenta Corriente\\CuentaCorrienteContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T23:08:26.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\estudiante\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Entidades\\Class1.cs",
-              "RelativeDocumentMoniker": "Entidades\\Class1.cs",
-              "ToolTip": "C:\\Users\\estudiante\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Entidades\\Class1.cs",
-              "RelativeToolTip": "Entidades\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Cuenta Corriente\\Form1.cs",
+              "RelativeDocumentMoniker": "Cuenta Corriente\\Form1.cs",
+              "ToolTip": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Cuenta Corriente\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Cuenta Corriente\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T22:28:35.628Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Entidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entidades\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Entidades\\Cliente.cs",
+              "RelativeToolTip": "Entidades\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T13:10:11.773Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\estudiante\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Controladora\\Class1.cs",
-              "RelativeDocumentMoniker": "Controladora\\Class1.cs",
-              "ToolTip": "C:\\Users\\estudiante\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Controladora\\Class1.cs",
-              "RelativeToolTip": "Controladora\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Controladora.cs",
+              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Controladora\\Controladora.cs",
+              "RelativeDocumentMoniker": "Controladora\\Controladora.cs",
+              "ToolTip": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Controladora\\Controladora.cs",
+              "RelativeToolTip": "Controladora\\Controladora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T13:09:51.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\estudiante\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Modelo\\Class1.cs",
-              "RelativeDocumentMoniker": "Modelo\\Class1.cs",
-              "ToolTip": "C:\\Users\\estudiante\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Modelo\\Class1.cs",
-              "RelativeToolTip": "Modelo\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "CuentaCorrienteContext.cs",
+              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Modelo\\CuentaCorrienteContext.cs",
+              "RelativeDocumentMoniker": "Modelo\\CuentaCorrienteContext.cs",
+              "ToolTip": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Modelo\\CuentaCorrienteContext.cs",
+              "RelativeToolTip": "Modelo\\CuentaCorrienteContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T13:09:19.427Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\estudiante\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Cuenta Corriente\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Camila\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Cuenta Corriente\\Form1.cs",
               "RelativeDocumentMoniker": "Cuenta Corriente\\Form1.cs",
               "ToolTip": "C:\\Users\\estudiante\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Cuenta Corriente\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Cuenta Corriente\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\estudiante\\Desktop\\TP-DAS-Cuenta-Corriente\\Cuenta Corriente\\Cuenta Corriente\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T13:03:51.409Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-11-11T13:03:51.409Z"
             }
           ]
         }
